@@ -1,4 +1,4 @@
-## Wstęp do eksploracji danych
+### Wstęp do eksploracji danych
 
 Materiały z zajęć *Wstęp do eksploracji danych* (MiNI, 2 rok MAD)
 
@@ -10,6 +10,8 @@ Wstęp do eksploracji danych składa się z:
 Zaliczenie jest oparte o dwie składowe:
 -   Punkty z prac domowych, będzie ich 8. Na rozwiązanie pracy domowej jest czas do rozpoczęcia się kolejnych zajęć. Prace domowe należy zgłaszać przez GitHub. Każda praca jest oceniana w skali 0-5 (5 punktów za poprawne wykonanie pracy domowej).
 -   Punkty z projektów. W semestrze wykonać należy dwa projekty. Każdy projekt to od 0 do 20 punktów.
+
+### Terminy i tematy zajęć 
 
 <table>
 <thead>
