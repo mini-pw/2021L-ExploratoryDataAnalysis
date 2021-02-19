@@ -202,3 +202,20 @@
   </tr>
 </tbody>
 </table>
+
+
+### Schemat oceniania (suma 80 pkt):
+
+-  projekt I + II (20 pkt. + 20 pkt.):
+	-  5 pkt. uzyskuje się za przygotowanie estetycznych wykresów (dwa lub więcej),
+	-  5 pkt. uzyskuje się, jeżeli przygotowane wykresy mają wszystkie niezbędne elementy do poprawnego odczytania danych (tytuł, podtytuł, adnotacje na osiach, legenda, jednostki, opis jak czytać wykres),
+	-  5 pkt. uzyskuje się za znalezienie ciekawych danych,
+	-  5 pkt. uzyskuje się za estetykę i pomysłowość aranżacji wykresów i ich opisów w jedną całość.
+
+-  prace domowe (40 pkt. = 5 pkt. x 8)
+	- za każdą pracę domową uzyskuje się do 5 pkt.
+    
+    
+| Ocena |  3 | 3.5 | 4 | 4.5 | 5 |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Punkty   | (41, 48] | (48, 56] | (56, 64] | (64, 72] | (72, ∞) |
