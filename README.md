@@ -30,7 +30,7 @@ Zaliczenie jest oparte o dwie składowe:
     <td rowspan="2">1</td>
     <td>2021-02-23</td>
      <td colspan="2"><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/blob/main/Wyk%C5%82ad/Wstep_do_eksploracji_danych.pdf" target="_blank" rel="noopener noreferrer">Eksploracja danych, narzędzia do wizualizacji danych, zasady zaliczenia.</a></td>
-    <td rowspan="2">Powtórzenie R - proton, jak działa GitHub?</td>
+    <td rowspan="2"><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/blob/main/Laboratoria/Lab_1.R target="_blank" rel="noopener noreferrer">Powtórzenie R - proton, jak działa GitHub?"</a></td>
     <td rowspan="2"></td>
     <td rowspan="2"></td>
   </tr>
