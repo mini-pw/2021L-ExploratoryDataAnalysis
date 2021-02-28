@@ -43,7 +43,7 @@ Zaliczenie jest oparte o dwie składowe:
     <td>2021-03-02</td>
     <td>Gramatyka języka wizualizacji.</td>
     <td>Projekt I - motywacja, opis, tematyka.</td>
-    <td rowspan="2">R: Wstęp do dplyr, tidyr.</td>
+    <td rowspan="2"><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/blob/main/Laboratoria/Lab_2.R" target="_blank" rel="noopener noreferrer">R: Wstęp do dplyr, tidyr.</a></td>
     <td rowspan="2"></td>
     <td rowspan="2"></td>
   </tr>
