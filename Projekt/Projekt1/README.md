@@ -21,6 +21,45 @@ Przykładowe wizualizacje danych o filmach/serialach, można obejrzeć pod [adre
 Przykładowe plakaty z poprzednich lat można obejrzeć pod tym adresem [1](https://medium.com/responsibleml/data-visualization-cheat-sheets-1c12ba8a7671) lub [2](http://smarterpoland.pl/index.php/2018/01/0-1/) 
 
 
-
-
+<table>
+<thead>
+  <tr>
+    <th>Etap</th>
+    <th>Termin rozpoczęcia</th>
+    <th>Termin zakończenia</th>
+    <th>Zadania do zrealizowania</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>I</td>
+    <td>02-03-2021</td>
+    <td>15-03-2021</td>
+    <td>Podział na grupy (do 3 osób).<br>Każda grupa przygotowuje pomysły co chce przedstawić na plakacie .<br>Każda grupa szuka danych w celu przedstawienie pomysłów.</td>
+  </tr>
+  <tr>
+    <td>II</td>
+    <td>16-03-2021</td>
+    <td>22-03-2021</td>
+    <td>Każda grupa przygotowuje pierwsze wizualizacje, które można wykorzystać na plakacie (min. 5 propozycji)</td>
+  </tr>
+  <tr>
+    <td>III</td>
+    <td>23-03-2021</td>
+    <td>29-03-2021</td>
+    <td>Każda grupa przygotowuje prototyp końcowego plakatu.</td>
+  </tr>
+  <tr>
+    <td>IV</td>
+    <td>30-03-2021</td>
+    <td>12-04-2021</td>
+    <td>Praca własna nad poprawieniem jakości plakatu.</td>
+  </tr>
+  <tr>
+    <td>V</td>
+    <td colspan="2">13-04-2021</td>
+    <td>Prezentacja projektów podczas wykładu.</td>
+  </tr>
+</tbody>
+</table>
 
