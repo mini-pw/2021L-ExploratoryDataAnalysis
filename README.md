@@ -56,7 +56,7 @@ Zaliczenie jest oparte o dwie składowe:
     <td>2021-03-09</td>
     <td colspan="2">Kolory i skale.</td>
     <td rowspan="2">R: Zaawansowane operacje na ramkach danych.</td>
-    <td rowspan="2">PD1</td>
+    <td rowspan="2"><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/issues/33" target="_blank" rel="noopener noreferrer">PD1</a></td>
     <td rowspan="2">5</td>
   </tr>
   <tr>
