@@ -82,8 +82,8 @@ Zaliczenie jest oparte o dwie składowe:
     <td>Inkscape i inne programy graficzne.</td>
     <td>Spotkanie projektowe 2.</td>
     <td rowspan="2">R: Modyfikacja wykresów, stylów w ggplot2.</td>
-    <td rowspan="2">PD3</td>
-    <td rowspan="2">5</td>
+    <td rowspan="2"></td>
+    <td rowspan="2"></td>
   </tr>
   <tr>
     <td>2021-03-24</td>
@@ -95,8 +95,8 @@ Zaliczenie jest oparte o dwie składowe:
     <td>Inne rodzaje wykresów.</td>
     <td>Spotkanie projektowe 3.</td>
     <td rowspan="2">R: Zaawansowany ggplot2 oraz rozszerzenie: patchwork, ggstatsplot, ggmap</td>
-    <td rowspan="2">PD4</td>
-    <td rowspan="2">5</td>
+    <td rowspan="2">PD3 + PD4</td>
+    <td rowspan="2">10</td>
   </tr>
   <tr>
     <td>2021-01-07</td>
