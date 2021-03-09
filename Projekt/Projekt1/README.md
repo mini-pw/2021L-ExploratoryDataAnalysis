@@ -1,6 +1,6 @@
-## Projekt 1: Filmy, seriale, książki, audiobooki
+## Projekt 1: Filmy, seriale, książki, audiobooki, gry
 
-Pierwszy projekt będzie poświęcony tematyce filmów, seriali, kiążek lub audiobooków (lub ich kolekcji), jego celem jest przygotowanie plakatu w formacie A2, który przedstawi graficznie ciekawe informacje.
+Pierwszy projekt będzie poświęcony tematyce filmów, seriali, kiążek, audiobooków lub gier (lub ich kolekcji), jego celem jest przygotowanie plakatu w formacie A2, który przedstawi graficznie ciekawe informacje.
 
 Plakat powinien składać się ze zbioru przynajmniej dwóch wykresów oraz komentarzy/opisów do wykresów. Projekt wykonywać można w grupie do 3 osób.  Kody źródłowe wykresów i plakat w postaci elektronicznej należy umieścić na GitHubie.
 
