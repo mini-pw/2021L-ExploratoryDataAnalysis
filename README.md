@@ -54,7 +54,7 @@ Zaliczenie jest oparte o dwie składowe:
   <tr>
     <td rowspan="2">3</td>
     <td>2021-03-09</td>
-    <td colspan="2">Jak badać rozkład jednej zmiennej? Kolory i skale.</td>
+    <td colspan="2"><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/blob/main/Wyk%C5%82ad/Jak%20bada%C4%87%20rozk%C5%82ad%20jednej%20zmiennej%2C%20kolory%20i%20skale..pdf" target="_blank" rel="noopener noreferrer">Jak badać rozkład jednej zmiennej? Kolory i skale.</a></td>
     <td rowspan="2"><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/blob/main/Laboratoria/Lab_3.R" target="_blank" rel="noopener noreferrer">R: Zaawansowane operacje na ramkach danych.</a></td>
     <td rowspan="2"><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/issues/33" target="_blank" rel="noopener noreferrer">PD1</a></td>
     <td rowspan="2">5</td>
