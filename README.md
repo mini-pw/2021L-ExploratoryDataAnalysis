@@ -69,7 +69,7 @@ Zaliczenie jest oparte o dwie składowe:
     <td>Nie popełniaj tych błędów!</td>
     <td>Spotkanie projektowe 1.</td>
     <td rowspan="2">R: Wstęp i gramatyka ggplot2.</td>
-    <td rowspan="2">PD2</td>
+    <td rowspan="2"><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/issues/35" target="_blank" rel="noopener noreferrer">PD2</a></td>
     <td rowspan="2">5</td>
   </tr>
   <tr>
@@ -95,7 +95,7 @@ Zaliczenie jest oparte o dwie składowe:
     <td>Inne rodzaje wykresów.</td>
     <td>Spotkanie projektowe 3.</td>
     <td rowspan="2">R: Zaawansowany ggplot2 oraz rozszerzenie: patchwork, ggstatsplot, ggmap</td>
-    <td rowspan="2">PD3 + PD4</td>
+    <td rowspan="2"><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/issues/36" target="_blank" rel="noopener noreferrer">PD3 + PD4</a></td>
     <td rowspan="2">10</td>
   </tr>
   <tr>
