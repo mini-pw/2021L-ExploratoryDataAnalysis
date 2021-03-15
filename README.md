@@ -68,7 +68,7 @@ Zaliczenie jest oparte o dwie składowe:
     <td>2021-03-16</td>
     <td>Nie popełniaj tych błędów!</td>
     <td>Spotkanie projektowe 1.</td>
-    <td rowspan="2">R: Wstęp i gramatyka ggplot2.</td>
+    <td rowspan="2"><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/blob/main/Laboratoria/Lab_4.R" target="_blank" rel="noopener noreferrer"> R: Wstęp i gramatyka ggplot2.</a></td>
     <td rowspan="2"><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/issues/35" target="_blank" rel="noopener noreferrer">PD2</a></td>
     <td rowspan="2">5</td>
   </tr>
