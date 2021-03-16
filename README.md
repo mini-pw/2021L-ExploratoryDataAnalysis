@@ -29,8 +29,8 @@ Zaliczenie jest oparte o dwie składowe:
   <tr>
     <td rowspan="2">1</td>
     <td>2021-02-23</td>
-    <td colspan="2">Eksploracja danych, narzędzia do wizualizacji danych, zasady zaliczenia.</td>
-    <td rowspan="2">Powtórzenie R - proton, jak działa GitHub?</td>
+     <td colspan="2"><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/blob/main/Wyk%C5%82ad/Wstep_do_eksploracji_danych.pdf" target="_blank" rel="noopener noreferrer">Eksploracja danych, narzędzia do wizualizacji danych, zasady zaliczenia.</a></td>
+    <td rowspan="2"><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/blob/main/Laboratoria/Lab_1.R" target="_blank" rel="noopener noreferrer">Powtórzenie R - proton, jak działa GitHub?</a></td>
     <td rowspan="2"></td>
     <td rowspan="2"></td>
   </tr>
@@ -41,9 +41,9 @@ Zaliczenie jest oparte o dwie składowe:
   <tr>
     <td rowspan="2">2</td>
     <td>2021-03-02</td>
-    <td>Gramatyka języka wizualizacji.</td>
-    <td>Projekt I - motywacja, opis, tematyka.</td>
-    <td rowspan="2">R: Wstęp do dplyr, tidyr.</td>
+    <td><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/blob/main/Wyk%C5%82ad/Gramatyka_jezyka_wizualizacji.pdf" target="_blank" rel="noopener noreferrer">Gramatyka języka wizualizacji.</a></td>
+    <td><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/tree/main/Projekt/Projekt1" target="_blank" rel="noopener noreferrer">Projekt I - motywacja, opis, tematyka.</a></td>
+    <td rowspan="2"><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/blob/main/Laboratoria/Lab_2.R" target="_blank" rel="noopener noreferrer">R: Wstęp do dplyr, tidyr.</a></td>
     <td rowspan="2"></td>
     <td rowspan="2"></td>
   </tr>
@@ -54,9 +54,9 @@ Zaliczenie jest oparte o dwie składowe:
   <tr>
     <td rowspan="2">3</td>
     <td>2021-03-09</td>
-    <td colspan="2">Kolory i skale.</td>
-    <td rowspan="2">R: Zaawansowane operacje na ramkach danych.</td>
-    <td rowspan="2">PD1</td>
+    <td colspan="2"><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/blob/main/Wyk%C5%82ad/Jak%20bada%C4%87%20rozk%C5%82ad%20jednej%20zmiennej%2C%20kolory%20i%20skale..pdf" target="_blank" rel="noopener noreferrer">Jak badać rozkład jednej zmiennej? Kolory i skale.</a></td>
+    <td rowspan="2"><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/blob/main/Laboratoria/Lab_3.R" target="_blank" rel="noopener noreferrer">R: Zaawansowane operacje na ramkach danych.</a></td>
+    <td rowspan="2"><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/issues/33" target="_blank" rel="noopener noreferrer">PD1</a></td>
     <td rowspan="2">5</td>
   </tr>
   <tr>
@@ -68,8 +68,8 @@ Zaliczenie jest oparte o dwie składowe:
     <td>2021-03-16</td>
     <td>Nie popełniaj tych błędów!</td>
     <td>Spotkanie projektowe 1.</td>
-    <td rowspan="2">R: Wstęp i gramatyka ggplot2.</td>
-    <td rowspan="2">PD2</td>
+    <td rowspan="2"><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/blob/main/Laboratoria/Lab_4.R" target="_blank" rel="noopener noreferrer"> R: Wstęp i gramatyka ggplot2.</a></td>
+    <td rowspan="2"><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/issues/35" target="_blank" rel="noopener noreferrer">PD2</a></td>
     <td rowspan="2">5</td>
   </tr>
   <tr>
@@ -82,8 +82,8 @@ Zaliczenie jest oparte o dwie składowe:
     <td>Inkscape i inne programy graficzne.</td>
     <td>Spotkanie projektowe 2.</td>
     <td rowspan="2">R: Modyfikacja wykresów, stylów w ggplot2.</td>
-    <td rowspan="2">PD3</td>
-    <td rowspan="2">5</td>
+    <td rowspan="2"></td>
+    <td rowspan="2"></td>
   </tr>
   <tr>
     <td>2021-03-24</td>
@@ -95,8 +95,8 @@ Zaliczenie jest oparte o dwie składowe:
     <td>Inne rodzaje wykresów.</td>
     <td>Spotkanie projektowe 3.</td>
     <td rowspan="2">R: Zaawansowany ggplot2 oraz rozszerzenie: patchwork, ggstatsplot, ggmap</td>
-    <td rowspan="2">PD4</td>
-    <td rowspan="2">5</td>
+    <td rowspan="2"><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/issues/36" target="_blank" rel="noopener noreferrer">PD3 + PD4</a></td>
+    <td rowspan="2">10</td>
   </tr>
   <tr>
     <td>2021-01-07</td>
