@@ -81,7 +81,7 @@ Zaliczenie jest oparte o dwie składowe:
     <td>2021-03-23</td>
     <td>Inkscape i inne programy graficzne.</td>
     <td>Spotkanie projektowe 2.</td>
-    <td rowspan="2">R: Modyfikacja wykresów, stylów w ggplot2.</td>
+    <td rowspan="2"><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/blob/main/Laboratoria/Lab_5.R" target="_blank" rel="noopener noreferrer">R: Modyfikacja wykresów, stylów w ggplot2.</a></td>
     <td rowspan="2"></td>
     <td rowspan="2"></td>
   </tr>
