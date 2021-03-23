@@ -92,7 +92,7 @@ Zaliczenie jest oparte o dwie składowe:
   <tr>
     <td rowspan="2">6</td>
     <td>2021-03-30</td>
-    <td>Inne rodzaje wykresów.</td>
+    <td>Jak przygotować dobry raport? Inne rodzaje wykresów.</td>
     <td>Spotkanie projektowe 3.</td>
     <td rowspan="2">R: Zaawansowany ggplot2 oraz rozszerzenie: patchwork, ggstatsplot, ggmap</td>
     <td rowspan="2"><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/issues/36" target="_blank" rel="noopener noreferrer">PD3 + PD4</a></td>
