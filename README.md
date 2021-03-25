@@ -226,12 +226,11 @@ Zaliczenie jest oparte o dwie składowe:
 	-  5 pkt. uzyskuje się za znalezienie ciekawych danych,
 	-  5 pkt. uzyskuje się za estetykę i pomysłowość aranżacji wykresów i ich opisów w jedną całość.
 
--  projekt II (20 pkt.):
-    raport (15 pkt.)
+-  projekt II (20 pkt. = raport 15 pkt. + prezentacja 5 pkt. ):
 	- 8 pkt. uzyskuje się za postawienie pytań badawczych i ich weryfikację
 	- 5 pkt. uzyskuje się za jakość wizualizacji, tabel, opisów (wykresy mają wszystkie niezbędne elementy do - poprawnego odczytania danych (tytuł, podtytuł, adnotacje na osiach, legenda, jednostki, opis jak czytać wykres))
 	- 2 pkt. uzyskuje się za wnioski z przeprowadzonych analiz
-    prezentacja na wykładzie (5 pkt.)
+	- 5 pkt. uzyskuje się za prezentację na wykładzie
 
 -  prace domowe (40 pkt. = 5 pkt. x 8)
 	- za każdą pracę domową uzyskuje się do 5 pkt.
