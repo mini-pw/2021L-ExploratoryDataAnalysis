@@ -23,7 +23,7 @@ Raport w formacie pdf, maksymalnie do 30 stron.
 Prezentacja wniosków z analiz podczas wykładu, oceniana w skali [0,5] pkt.
 
 |Etap  | Termin  | Zadania do wykonania| 
-|--|--|--|--|
+|--|--|--|
 | I |2021-05-11 | Podział na grupy (do 3 osób). Każda grupa wybiera obszar, w którym chce przeprowadzić badania. Konsultacje na temat wyboru obszaru badań.|
 |II|2021-05-18|Analiza danych - wstępne rezultaty.|
 |III|2021-05-25|Zarys głównych składowych raportu.|
