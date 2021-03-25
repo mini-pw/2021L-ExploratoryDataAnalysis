@@ -8,11 +8,13 @@ Podczas projektu pracujemy w grupach do 3 osób, przy założeniu, że są to in
 
 **Na ocenę będzie się składać:**
 - raport (15 pkt.)
-- prezentacja na wykładzie (5 pkt) 
+- prezentacja na wykładzie (5 pkt.) 
 
 ### Raport:
 Raport w formacie pdf, maksymalnie do 30 stron.
+
 *Punkty:*
+
 - 8 pkt - postawienie pytań badawczych i ich weryfikacja
 - 5 pkt - jakość wizualizacji, tabel, opisów (wykresy mają wszystkie niezbędne elementy do - poprawnego odczytania danych (tytuł, podtytuł, adnotacje na osiach, legenda, jednostki, opis jak czytać wykres))
 - 2 pkt - wnioski z przeprowadzonych analiz
