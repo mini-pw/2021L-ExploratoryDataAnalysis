@@ -94,7 +94,7 @@ Zaliczenie jest oparte o dwie składowe:
     <td>2021-03-30</td>
     <td>Jak przygotować dobry raport? Inne rodzaje wykresów.</td>
     <td>Spotkanie projektowe 3.</td>
-    <td rowspan="2">R: Zaawansowany ggplot2 oraz rozszerzenie: patchwork, ggstatsplot, ggmap</td>
+    <td rowspan="2"><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/blob/main/Laboratoria/Lab_6.R" target="_blank" rel="noopener noreferrer">R: Zaawansowany ggplot2 oraz rozszerzenie: patchwork, ggstatsplot, ggmap</a></td>
     <td rowspan="2"><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/issues/36" target="_blank" rel="noopener noreferrer">PD3 + PD4</a></td>
     <td rowspan="2">10</td>
   </tr>
