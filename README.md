@@ -92,7 +92,7 @@ Zaliczenie jest oparte o dwie składowe:
   <tr>
     <td rowspan="2">6</td>
     <td>2021-03-30</td>
-    <td>Jak przygotować dobry raport? Inne rodzaje wykresów.</td>
+    <td><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/blob/main/Wyk%C5%82ad/Jak%20przygotowa%C4%87%20dobry%20raport.%20Inne%20rodzaje%20wykres%C3%B3w..pdf"  target="_blank" rel="noopener noreferrer">Jak przygotować dobry raport? Inne rodzaje wykresów.</a></td>
     <td>Spotkanie projektowe 3.</td>
     <td rowspan="2"><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/blob/main/Laboratoria/Lab_6.R" target="_blank" rel="noopener noreferrer">R: Zaawansowany ggplot2 oraz rozszerzenie: patchwork, ggstatsplot, ggmap</a></td>
     <td rowspan="2"><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/issues/36" target="_blank" rel="noopener noreferrer">PD3 + PD4</a></td>
