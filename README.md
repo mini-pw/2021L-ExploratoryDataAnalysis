@@ -94,7 +94,7 @@ Zaliczenie jest oparte o dwie składowe:
     <td>2021-03-30</td>
     <td><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/blob/main/Wyk%C5%82ad/Jak%20przygotowa%C4%87%20dobry%20raport.%20Inne%20rodzaje%20wykres%C3%B3w..pdf"  target="_blank" rel="noopener noreferrer">Jak przygotować dobry raport? Inne rodzaje wykresów.</a></td>
     <td>Spotkanie projektowe 3.</td>
-    <td rowspan="2"><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/blob/main/Laboratoria/Lab_6.R" target="_blank" rel="noopener noreferrer">R: Zaawansowany ggplot2 oraz rozszerzenie: patchwork, ggstatsplot, ggmap</a></td>
+    <td rowspan="2"><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/blob/main/Laboratoria/Lab_6.R" target="_blank" rel="noopener noreferrer">R: Zaawansowany ggplot2 oraz rozszerzenie: patchwork, ggstatsplot, ggmap.</a></td>
     <td rowspan="2"><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/issues/36" target="_blank" rel="noopener noreferrer">PD3 + PD4</a></td>
     <td rowspan="2">10</td>
   </tr>
@@ -106,7 +106,7 @@ Zaliczenie jest oparte o dwie składowe:
     <td rowspan="2">7</td>
     <td>2021-04-13</td>
     <td colspan="2">Oddanie projektu I.</td>
-    <td rowspan="2">R: Poprawianie wykresów NSP.</td>
+    <td rowspan="2">R: Generowanie raportów z analizą danych.</td>
     <td rowspan="2"></td>
     <td rowspan="2"></td>
   </tr>
@@ -118,8 +118,8 @@ Zaliczenie jest oparte o dwie składowe:
     <td rowspan="2">8</td>
     <td>2021-04-20</td>
     <td colspan="2">Wizualizacje interaktywne i w JS.</td>
-    <td rowspan="2">R: Generowanie raportów z analizą danych.</td>
-    <td rowspan="2">Projekt 1</td>
+    <td rowspan="2">R: Interaktywne wizualizacje w plotly i ggplot2.</td>
+    <td rowspan="2"><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/issues/32" target="_blank" rel="noopener noreferrer">Projekt 1</a></td>
     <td rowspan="2">20</td>
   </tr>
   <tr>
@@ -195,7 +195,7 @@ Zaliczenie jest oparte o dwie składowe:
     <td>2021-06-08</td>
     <td colspan="2">Znani w świecie wizualizacji.</td>
     <td rowspan="2">Python: Poprawianie wykresów NSP.</td>
-    <td rowspan="2">Projekt 2</td>
+    <td rowspan="2"><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/issues/95" target="_blank" rel="noopener noreferrer">Projekt 2</a></td>
     <td rowspan="2">20</td>
   </tr>
   <tr>
