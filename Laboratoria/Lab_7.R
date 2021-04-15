@@ -15,8 +15,8 @@
 
 # theme: cerulean, journal, flatly, darkly, readable, spacelab, united, cosmo, lumen, paper, sandstone, simplexand yeti
 # highlight: espresso, tango, pygments, kate, monochrome, zenburn, haddock and textmate
-
-#https://www.datadreaming.org/post/r-markdown-theme-gallery/
+ 
+# https://www.datadreaming.org/post/r-markdown-theme-gallery/
 
 # b) functions 
 
@@ -24,7 +24,6 @@
 # number_sections: true
 # toc_depth: 4
 # toc_float: true 
-
 
 # c) tabels
 
@@ -43,7 +42,21 @@
 # https://github.com/choonghyunryu/dlookr
 install.packages("dlookr")
 library(dlookr)
+library(dplyr)
+summary(mtcars)
 
+describe(mtcars)
+
+mtcars %>% 
+  describe() %>% 
+  select(variable, mean, IQR, p50)
+
+normality(mtcars)
+plot_normality(mtcars, mpg)
+
+plot_normality(mtcars, cyl)
+
+plot_correlate(mtcars)
 
 # 3) "dataReporter"
 # https://github.com/ekstroem/dataMaid
@@ -51,3 +64,5 @@ library(dlookr)
 install.packages("dataReporter")
 library("dataReporter")
 
+makeDataReport(mtcars)
+data("mtcars")
