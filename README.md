@@ -105,7 +105,7 @@ Zaliczenie jest oparte o dwie składowe:
   <tr>
     <td rowspan="2">7</td>
     <td>2021-04-13</td>
-    <td colspan="2">Oddanie projektu I.</td>
+	  <td colspan="2"><a href="https://medium.com/responsibleml/poster-make-movie-book-series-3ac2c8a01180" target="_blank" rel="noopener noreferrer">Oddanie projektu I.</a></td>
     <td rowspan="2"><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/blob/main/Laboratoria/Lab_7.R" target="_blank" rel="noopener noreferrer">R: Generowanie raportów z analizą danych.</a></td>
     <td rowspan="2"></td>
     <td rowspan="2"></td>
