@@ -117,7 +117,7 @@ Zaliczenie jest oparte o dwie składowe:
   <tr>
     <td rowspan="2">8</td>
     <td>2021-04-20</td>
-    <td colspan="2">Wizualizacje interaktywne i w JS.</td>
+    <td colspan="2">Wizualizacje interaktywne i w JS. Shiny.</td>
     <td rowspan="2">R: Interaktywne wizualizacje w plotly i ggplot2.</td>
     <td rowspan="2"><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/issues/32" target="_blank" rel="noopener noreferrer">Projekt 1</a></td>
     <td rowspan="2">20</td>
@@ -129,7 +129,7 @@ Zaliczenie jest oparte o dwie składowe:
   <tr>
     <td rowspan="2">9</td>
     <td>2021-04-27</td>
-    <td>Shiny część 1.</td>
+    <td>Dash.</td>
     <td>Projekt II - motywacja, opis, tematyka.</td>
     <td rowspan="2">Python: Wstęp do pandas.</td>
     <td rowspan="2"></td>
@@ -142,7 +142,7 @@ Zaliczenie jest oparte o dwie składowe:
   <tr>
     <td rowspan="2">10</td>
     <td>2021-05-11</td>
-    <td>Shiny część 2.</td>
+    <td>The International Business Communication Standards.</td>
     <td>Spotkanie projektowe 1.</td>
     <td rowspan="2">Python: Zaawansowane operacje na ramkach danych.</td>
     <td rowspan="2">PD5</td>
@@ -155,8 +155,8 @@ Zaliczenie jest oparte o dwie składowe:
   <tr>
     <td rowspan="2">11</td>
     <td>2021-05-18</td>
-    <td>Dash.</td>
-    <td>Spotkanie projektowe 2.</td>
+    <td colspan="2">
+    Spotkanie projektowe 2.</td>
     <td rowspan="2">Python: Wykresy w matplotlib.</td>
     <td rowspan="2">PD6</td>
     <td rowspan="2">5</td>
@@ -168,8 +168,8 @@ Zaliczenie jest oparte o dwie składowe:
   <tr>
     <td rowspan="2">12</td>
     <td>2021-05-25</td>
-    <td>The International Business Communication Standards.</td>
-    <td>Spotkanie projektowe 3.</td>
+    <td colspan="2">
+    Spotkanie projektowe 3.</td>
     <td rowspan="2">Python: Wykresy w seaborn.</td>
     <td rowspan="2">PD7</td>
     <td rowspan="2">5</td>
