@@ -118,7 +118,7 @@ Zaliczenie jest oparte o dwie składowe:
     <td rowspan="2">8</td>
     <td>2021-04-20</td>
     <td colspan="2">Wizualizacje interaktywne i w JS. Shiny.</td>
-    <td rowspan="2">R: Interaktywne wizualizacje w plotly i ggplot2.</td>
+    <td rowspan="2"><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/blob/main/Laboratoria/Lab_8.R" target="_blank" rel="noopener noreferrer">R: Interaktywne wizualizacje w plotly i ggplot2.</a></td>
     <td rowspan="2"><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/issues/32" target="_blank" rel="noopener noreferrer">Projekt 1</a></td>
     <td rowspan="2">20</td>
   </tr>
