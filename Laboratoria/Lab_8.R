@@ -3,7 +3,7 @@
 ###         LABORATORIUM  8           ###
 #########################################
 
-# Wykresy interantywne w ploty 
+# Wykresy interaktywne w ploty 
 
 install.packages("plotly")
 
