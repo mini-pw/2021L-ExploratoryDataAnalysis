@@ -24,8 +24,23 @@ Prezentacja wniosków z analiz podczas wykładu, oceniana w skali [0,5] pkt.
 
 |Etap  | Termin  | Zadania do wykonania| 
 |--|--|--|
-| I |2021-05-11 | Podział na grupy (do 3 osób). Każda grupa wybiera obszar, w którym chce przeprowadzić badania. Konsultacje na temat wyboru obszaru badań.|
-|II|2021-05-18|Analiza danych - wstępne rezultaty.|
+| I |2021-05-11 | Podział na grupy (do 3 osób). Każda grupa wybiera obszar, w którym chce przeprowadzić badania. Konsultacje na temat wyboru obszaru badań i pomysłów pytań badawczych.|
+|II|2021-05-18|Analiza danych - wstępne rezultaty (tabele, wykresy, opisy) dotyczące pytań badawczych.|
 |III|2021-05-25|Zarys głównych składowych raportu.|
-|V|2021-06-01|Prezentacja wyników podczas wykładu.|
+|V|2021-06-01|Oddanie raportu w postaci pdf. Prezentacja wyników podczas wykładu.|
 
+### Jak wczytać dane?
+
+#### R
+```
+library(haven)
+
+path <- "nazwa_pliku.sav"
+df <- read_sav(path)
+```
+#### Python
+```
+import pandas as pd
+
+df = pd.read_spss("nazwa_pliku.sav")
+```
