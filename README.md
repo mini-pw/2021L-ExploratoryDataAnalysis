@@ -130,7 +130,7 @@ Zaliczenie jest oparte o dwie składowe:
     <td rowspan="2">9</td>
     <td>2021-04-27</td>
     <td>Dash.</td>
-    <td>Projekt II - motywacja, opis, tematyka.</td>
+    <td><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/tree/main/Projekt/Projekt2" target="_blank" rel="noopener noreferrer">Projekt II - motywacja, opis, tematyka.</a></td>
     <td rowspan="2"><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/blob/main/Laboratoria/Lab_9.ipynb" target="_blank" rel="noopener noreferrer">Python: Wstęp do pandas.</a></td>
     <td rowspan="2"></td>
     <td rowspan="2"></td>
