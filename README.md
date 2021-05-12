@@ -142,7 +142,7 @@ Zaliczenie jest oparte o dwie składowe:
   <tr>
     <td rowspan="2">10</td>
     <td>2021-05-11</td>
-    <td>The International Business Communication Standards.</td>
+    <td><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/blob/main/Wyk%C5%82ad/International%20Business%20Communication%20Standards.pdf" target="_blank" rel="noopener noreferrer">The International Business Communication Standards.</a></td>
     <td>Spotkanie projektowe 1.</td>
     <td rowspan="2"><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/blob/main/Laboratoria/Lab_10.ipynb" target="_blank" rel="noopener noreferrer">Python: Zaawansowane operacje na ramkach danych.</a></td>
     <td rowspan="2"><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/issues/136" target="_blank" rel="noopener noreferrer">PD5</a></td>
