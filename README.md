@@ -157,7 +157,7 @@ Zaliczenie jest oparte o dwie składowe:
     <td>2021-05-18</td>
     <td colspan="2">
     Spotkanie projektowe 2.</td>
-    <td rowspan="2">Python: Wykresy w matplotlib.</td>
+    <td rowspan="2"><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/blob/main/Laboratoria/Lab_11.ipynb" target="_blank" rel="noopener noreferrer"> Python: Wykresy w matplotlib.</a></td>
     <td rowspan="2">PD6</td>
     <td rowspan="2">5</td>
   </tr>
@@ -168,7 +168,7 @@ Zaliczenie jest oparte o dwie składowe:
   <tr>
     <td rowspan="2">12</td>
     <td>2021-05-25</td>
-    <td colspan="2">
+    <td colspan="2">Kilka słów o prezentowaniu wyników.
     Spotkanie projektowe 3.</td>
     <td rowspan="2">Python: Wykresy w seaborn.</td>
     <td rowspan="2">PD7</td>
@@ -193,7 +193,7 @@ Zaliczenie jest oparte o dwie składowe:
   <tr>
     <td rowspan="2">14</td>
     <td>2021-06-08</td>
-    <td colspan="2">Znani w świecie wizualizacji.</td>
+    <td colspan="2">Analiza EDA przed modelowaniem</td>
     <td rowspan="2">Python: Poprawianie wykresów NSP.</td>
     <td rowspan="2"><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/issues/95" target="_blank" rel="noopener noreferrer">Projekt 2</a></td>
     <td rowspan="2">20</td>
@@ -205,7 +205,7 @@ Zaliczenie jest oparte o dwie składowe:
   <tr>
     <td rowspan="2">15</td>
     <td>2021-06-15</td>
-    <td colspan="2">Wizualizacje modeli.</td>
+    <td colspan="2">Znani w świecie wizualizacji. Wizualizacje modeli.</td>
     <td rowspan="2">Python: Generowanie raportów z analizą danych.</td>
     <td rowspan="2"></td>
     <td rowspan="2"></td>
