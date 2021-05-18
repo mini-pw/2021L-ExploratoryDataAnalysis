@@ -168,8 +168,8 @@ Zaliczenie jest oparte o dwie składowe:
   <tr>
     <td rowspan="2">12</td>
     <td>2021-05-25</td>
-    <td colspan="2">Kilka słów o prezentowaniu wyników.
-    Spotkanie projektowe 3.</td>
+    <td>Kilka słów o prezentowaniu wyników.</td>
+    <td>Spotkanie projektowe 3.</td>
     <td rowspan="2">Python: Wykresy w seaborn.</td>
     <td rowspan="2">PD7</td>
     <td rowspan="2">5</td>
