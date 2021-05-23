@@ -105,8 +105,8 @@ Zaliczenie jest oparte o dwie składowe:
   <tr>
     <td rowspan="2">7</td>
     <td>2021-04-13</td>
-    <td colspan="2">Oddanie projektu I.</td>
-    <td rowspan="2">R: Generowanie raportów z analizą danych.</td>
+	  <td colspan="2"><a href="https://medium.com/responsibleml/poster-make-movie-book-series-3ac2c8a01180" target="_blank" rel="noopener noreferrer">Oddanie projektu I.</a></td>
+    <td rowspan="2"><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/blob/main/Laboratoria/Lab_7.R" target="_blank" rel="noopener noreferrer">R: Generowanie raportów z analizą danych.</a></td>
     <td rowspan="2"></td>
     <td rowspan="2"></td>
   </tr>
@@ -117,8 +117,8 @@ Zaliczenie jest oparte o dwie składowe:
   <tr>
     <td rowspan="2">8</td>
     <td>2021-04-20</td>
-    <td colspan="2">Wizualizacje interaktywne i w JS.</td>
-    <td rowspan="2">R: Interaktywne wizualizacje w plotly i ggplot2.</td>
+    <td colspan="2"><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/tree/main/Wyk%C5%82ad/Wizualizacje%20interaktywne%20i%20w%20JS.%20Shiny"   target="_blank" rel="noopener noreferrer"> Wizualizacje interaktywne i w JS. Shiny.</a></td>
+    <td rowspan="2"><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/blob/main/Laboratoria/Lab_8.R" target="_blank" rel="noopener noreferrer">R: Interaktywne wizualizacje w plotly i ggplot2.</a></td>
     <td rowspan="2"><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/issues/32" target="_blank" rel="noopener noreferrer">Projekt 1</a></td>
     <td rowspan="2">20</td>
   </tr>
@@ -129,9 +129,9 @@ Zaliczenie jest oparte o dwie składowe:
   <tr>
     <td rowspan="2">9</td>
     <td>2021-04-27</td>
-    <td>Shiny część 1.</td>
-    <td>Projekt II - motywacja, opis, tematyka.</td>
-    <td rowspan="2">Python: Wstęp do pandas.</td>
+    <td><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/blob/main/Wykład/Dash.pdf" target="_bland" rel="noopener noreferrer">Dash.</a></td>
+    <td><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/tree/main/Projekt/Projekt2" target="_blank" rel="noopener noreferrer">Projekt II - motywacja, opis, tematyka.</a></td>
+    <td rowspan="2"><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/blob/main/Laboratoria/Lab_9.ipynb" target="_blank" rel="noopener noreferrer">Python: Wstęp do pandas.</a></td>
     <td rowspan="2"></td>
     <td rowspan="2"></td>
   </tr>
@@ -142,10 +142,10 @@ Zaliczenie jest oparte o dwie składowe:
   <tr>
     <td rowspan="2">10</td>
     <td>2021-05-11</td>
-    <td>Shiny część 2.</td>
+    <td><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/blob/main/Wyk%C5%82ad/International%20Business%20Communication%20Standards.pdf" target="_blank" rel="noopener noreferrer">The International Business Communication Standards.</a></td>
     <td>Spotkanie projektowe 1.</td>
-    <td rowspan="2">Python: Zaawansowane operacje na ramkach danych.</td>
-    <td rowspan="2">PD5</td>
+    <td rowspan="2"><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/blob/main/Laboratoria/Lab_10.ipynb" target="_blank" rel="noopener noreferrer">Python: Zaawansowane operacje na ramkach danych.</a></td>
+    <td rowspan="2"><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/issues/136" target="_blank" rel="noopener noreferrer">PD5</a></td>
     <td rowspan="2">5</td>
   </tr>
   <tr>
@@ -155,9 +155,9 @@ Zaliczenie jest oparte o dwie składowe:
   <tr>
     <td rowspan="2">11</td>
     <td>2021-05-18</td>
-    <td>Dash.</td>
-    <td>Spotkanie projektowe 2.</td>
-    <td rowspan="2">Python: Wykresy w matplotlib.</td>
+    <td colspan="2">
+    Spotkanie projektowe 2.</td>
+    <td rowspan="2"><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/blob/main/Laboratoria/Lab_11.ipynb" target="_blank" rel="noopener noreferrer"> Python: Wykresy w matplotlib.</a></td>
     <td rowspan="2">PD6</td>
     <td rowspan="2">5</td>
   </tr>
@@ -168,7 +168,7 @@ Zaliczenie jest oparte o dwie składowe:
   <tr>
     <td rowspan="2">12</td>
     <td>2021-05-25</td>
-    <td>The International Business Communication Standards.</td>
+    <td>Kilka słów o prezentowaniu wyników.</td>
     <td>Spotkanie projektowe 3.</td>
     <td rowspan="2">Python: Wykresy w seaborn.</td>
     <td rowspan="2">PD7</td>
@@ -193,7 +193,7 @@ Zaliczenie jest oparte o dwie składowe:
   <tr>
     <td rowspan="2">14</td>
     <td>2021-06-08</td>
-    <td colspan="2">Znani w świecie wizualizacji.</td>
+    <td colspan="2">Analiza EDA przed modelowaniem</td>
     <td rowspan="2">Python: Poprawianie wykresów NSP.</td>
     <td rowspan="2"><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/issues/95" target="_blank" rel="noopener noreferrer">Projekt 2</a></td>
     <td rowspan="2">20</td>
@@ -205,7 +205,7 @@ Zaliczenie jest oparte o dwie składowe:
   <tr>
     <td rowspan="2">15</td>
     <td>2021-06-15</td>
-    <td colspan="2">Wizualizacje modeli.</td>
+    <td colspan="2">Znani w świecie wizualizacji. Wizualizacje modeli.</td>
     <td rowspan="2">Python: Generowanie raportów z analizą danych.</td>
     <td rowspan="2"></td>
     <td rowspan="2"></td>
