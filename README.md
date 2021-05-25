@@ -158,7 +158,7 @@ Zaliczenie jest oparte o dwie składowe:
     <td colspan="2">
     Spotkanie projektowe 2.</td>
     <td rowspan="2"><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/blob/main/Laboratoria/Lab_11.ipynb" target="_blank" rel="noopener noreferrer"> Python: Wykresy w matplotlib.</a></td>
-    <td rowspan="2">PD6</td>
+    <td rowspan="2"><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/issues/166" target="_blank" rel="noopener noreferrer">PD6</a></td>
     <td rowspan="2">5</td>
   </tr>
   <tr>
