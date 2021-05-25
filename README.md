@@ -170,7 +170,7 @@ Zaliczenie jest oparte o dwie składowe:
     <td>2021-05-25</td>
     <td>Kilka słów o prezentowaniu wyników.</td>
     <td>Spotkanie projektowe 3.</td>
-    <td rowspan="2">Python: Wykresy w seaborn.</td>
+    <td rowspan="2"><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/blob/main/Laboratoria/Lab_12.ipynb" target="_blank" rel="noopener noreferrer"> Python: Wykresy w seaborn.</a></td>
     <td rowspan="2">PD7</td>
     <td rowspan="2">5</td>
   </tr>
