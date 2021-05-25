@@ -168,7 +168,7 @@ Zaliczenie jest oparte o dwie składowe:
   <tr>
     <td rowspan="2">12</td>
     <td>2021-05-25</td>
-    <td>Kilka słów o prezentowaniu wyników.</td>
+    <td><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/blob/main/Wyk%C5%82ad/Kilka%20s%C5%82%C3%B3w%20o%20prezentowaniu%20wynik%C3%B3w..pdf" target="_blank" rel="noopener noreferrer"> Kilka słów o prezentowaniu wyników.</a></td>
     <td>Spotkanie projektowe 3.</td>
     <td rowspan="2"><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/blob/main/Laboratoria/Lab_12.ipynb" target="_blank" rel="noopener noreferrer"> Python: Wykresy w seaborn.</a></td>
     <td rowspan="2">PD7</td>
