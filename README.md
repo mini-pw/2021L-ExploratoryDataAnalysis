@@ -171,8 +171,8 @@ Zaliczenie jest oparte o dwie składowe:
     <td><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/blob/main/Wyk%C5%82ad/Kilka%20s%C5%82%C3%B3w%20o%20prezentowaniu%20wynik%C3%B3w..pdf" target="_blank" rel="noopener noreferrer"> Kilka słów o prezentowaniu wyników.</a></td>
     <td>Spotkanie projektowe 3.</td>
     <td rowspan="2"><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/blob/main/Laboratoria/Lab_12.ipynb" target="_blank" rel="noopener noreferrer"> Python: Wykresy w seaborn.</a></td>
-    <td rowspan="2">PD7</td>
-    <td rowspan="2">5</td>
+    <td rowspan="2"></td>
+    <td rowspan="2"></td>
   </tr>
   <tr>
     <td>2021-05-26</td>
@@ -181,10 +181,10 @@ Zaliczenie jest oparte o dwie składowe:
   <tr>
     <td rowspan="2">13</td>
     <td>2021-06-01</td>
-    <td colspan="2">Oddanie projektu II.</td>
-    <td rowspan="2">Python: Plotly.</td>
-    <td rowspan="2">PD8</td>
-    <td rowspan="2">5</td>
+    <td colspan="2"><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/tree/main/Projekt/Projekt2/Raport" target="_blank" rel="noopener noreferrer"> Oddanie projektu II.</a></td>
+    <td rowspan="2"><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/blob/main/Laboratoria/Lab_13.ipynb" target="_blank" rel="noopener noreferrer">Python: Plotly.</a></td>
+    <td rowspan="2">PD7 + PD8</td>
+    <td rowspan="2">10</td>
   </tr>
   <tr>
     <td>2021-06-02</td>
@@ -193,7 +193,7 @@ Zaliczenie jest oparte o dwie składowe:
   <tr>
     <td rowspan="2">14</td>
     <td>2021-06-08</td>
-    <td colspan="2">Analiza EDA przed modelowaniem</td>
+    <td colspan="2">Analiza EDA przed modelowaniem.</td>
     <td rowspan="2">Python: Poprawianie wykresów NSP.</td>
     <td rowspan="2"><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/issues/95" target="_blank" rel="noopener noreferrer">Projekt 2</a></td>
     <td rowspan="2">20</td>
@@ -226,7 +226,7 @@ Zaliczenie jest oparte o dwie składowe:
 	-  5 pkt. uzyskuje się za znalezienie ciekawych danych,
 	-  5 pkt. uzyskuje się za estetykę i pomysłowość aranżacji wykresów i ich opisów w jedną całość.
 
--  projekt II (20 pkt. = raport 15 pkt. + prezentacja 5 pkt. ):
+-  projekt II (20 pkt. = raport 15 pkt. + prezentacja 5 pkt.):
 	- 8 pkt. uzyskuje się za postawienie pytań badawczych i ich weryfikację
 	- 5 pkt. uzyskuje się za jakość wizualizacji, tabel, opisów (wykresy mają wszystkie niezbędne elementy do - poprawnego odczytania danych (tytuł, podtytuł, adnotacje na osiach, legenda, jednostki, opis jak czytać wykres))
 	- 2 pkt. uzyskuje się za wnioski z przeprowadzonych analiz
