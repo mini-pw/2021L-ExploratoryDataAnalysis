@@ -183,7 +183,7 @@ Zaliczenie jest oparte o dwie składowe:
     <td>2021-06-01</td>
     <td colspan="2"><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/tree/main/Projekt/Projekt2/Raport" target="_blank" rel="noopener noreferrer"> Oddanie projektu II.</a></td>
     <td rowspan="2"><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/blob/main/Laboratoria/Lab_13.ipynb" target="_blank" rel="noopener noreferrer">Python: Plotly.</a></td>
-    <td rowspan="2">PD7 + PD8</td>
+    <td rowspan="2"><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/issues/212" target="_blank" rel="noopener noreferrer">PD7 + PD8</a></td>
     <td rowspan="2">10</td>
   </tr>
   <tr>
