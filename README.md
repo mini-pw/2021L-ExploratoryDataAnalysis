@@ -194,7 +194,7 @@ Zaliczenie jest oparte o dwie składowe:
     <td rowspan="2">14</td>
     <td>2021-06-08</td>
     <td colspan="2">Analiza EDA przed modelowaniem.</td>
-    <td rowspan="2">Python: Poprawianie wykresów NSP.</td>
+    <td rowspan="2">Python: Przeprowadzenie EDA</td>
     <td rowspan="2"><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/issues/95" target="_blank" rel="noopener noreferrer">Projekt 2</a></td>
     <td rowspan="2">20</td>
   </tr>
