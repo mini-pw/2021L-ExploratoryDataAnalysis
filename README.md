@@ -193,7 +193,7 @@ Zaliczenie jest oparte o dwie składowe:
   <tr>
     <td rowspan="2">14</td>
     <td>2021-06-08</td>
-    <td colspan="2">Analiza EDA przed modelowaniem.</td>
+    <td colspan="2"><a kref="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/blob/main/Wyk%C5%82ad/Analiza%20EDA%20przed%20modelowaniem..pdf"  target="_blank" rel="noopener noreferrer">Analiza EDA przed modelowaniem.</a></td>
     <td rowspan="2"><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/blob/main/Laboratoria/Lab_14.ipynb" target="_blank" rel="noopener noreferrer">Python: Przeprowadzenie EDA.</a></td>
     <td rowspan="2"><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/issues/95" target="_blank" rel="noopener noreferrer">Projekt 2</a></td>
     <td rowspan="2">20</td>
