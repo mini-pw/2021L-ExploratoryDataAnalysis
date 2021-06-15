@@ -205,7 +205,7 @@ Zaliczenie jest oparte o dwie składowe:
   <tr>
     <td rowspan="2">15</td>
     <td>2021-06-15</td>
-    <td colspan="2">Znani w świecie wizualizacji. Wizualizacje modeli.</td>
+    <td colspan="2"><a href="https://github.com/mini-pw/2021L-ExploratoryDataAnalysis/blob/main/Wyk%C5%82ad/Znani%20w%20%C5%9Bwiecie%20wizualizacji.%20Wizualizacje%20modeli..pdf"  target="_blank" rel="noopener noreferrer"> Znani w świecie wizualizacji. Wizualizacje modeli.</a></td>
     <td rowspan="2">Python: Generowanie raportów z analizą danych.</td>
     <td rowspan="2"></td>
     <td rowspan="2"></td>
